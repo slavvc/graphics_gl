@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ConsoleApplication1.cpp
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(276): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(298): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(299): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(300): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(310): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(311): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(312): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(322): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(323): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(324): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(334): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(335): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(336): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(340): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(450): warning C4305: =: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(558): warning C4244: /=: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\sl\desktop\compgraph\12\1\2\consoleapplication1\consoleapplication1.cpp(612): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+  SOIL.lib(SOIL.obj) : найден .netmodule MSIL или модуль, откомпилированный с параметром /GL; перезапускается компоновка с параметром /LTCG; добавьте /LTCG в командную строку компоновки для повышения производительности компоновщика
+LINK : warning LNK4075: 
+LINK : warning LNK4098: 
+  
+  
+  ConsoleApplication1.vcxproj -> C:\Users\sl\Desktop\compgraph\12\1\2\Debug\ConsoleApplication1.exe
